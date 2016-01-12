@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVPSkeleton</string>
+    <string name="about_text">Sample About Fragment</string>
+    <string name="version_text">Build Version:</string>
+    <string name="build_version">1.0.2</string>
+</resources>
